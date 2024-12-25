@@ -9,11 +9,14 @@
     margin: 0 15% 0 15%;
 }
 
-main{
+.intro{
     display: flex;
-    flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: baseline;
+}
+
+.filopatir{
+    margin: 16px;
 }
 
 hr{
@@ -47,7 +50,7 @@ hr{
     background-color: rgba(230, 126, 34, 80);
 }
 
-@media (max-width: 600px) {
+@media (max-width: 700px) {
     .grid-item{
         flex: 100%;
     }
