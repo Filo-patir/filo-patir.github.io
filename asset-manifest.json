@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb4f4be0.css",
+    "main.js": "/static/js/main.9314eff0.js",
+    "static/media/english.gif": "/static/media/english.9f88cacb3aeb0109752e.gif",
+    "static/media/avatar.gif": "/static/media/avatar.b2df7503cdcb8fcc1b5e.gif",
+    "static/media/waving_hand.gif": "/static/media/waving_hand.d92d79d1538c63cbcc37.gif",
+    "static/media/filopatir.png": "/static/media/filopatir.d7ea24645bf48eacafff.png",
+    "static/media/whatsapp.png": "/static/media/whatsapp.fdd4b7007148bcf6ce48.png",
+    "index.html": "/index.html",
+    "main.cb4f4be0.css.map": "/static/css/main.cb4f4be0.css.map",
+    "main.9314eff0.js.map": "/static/js/main.9314eff0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb4f4be0.css",
+    "static/js/main.9314eff0.js"
+  ]
+}
